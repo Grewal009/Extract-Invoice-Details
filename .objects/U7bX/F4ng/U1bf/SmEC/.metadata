@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Invoices(3)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "SmECGM38NE24K_O8kUK1WA",
+  "Reference": "VVnr210j5k6UlXyOp7CtYg/SmECGM38NE24K_O8kUK1WA",
+  "ParentRef": "VVnr210j5k6UlXyOp7CtYg/U1bf29JZKk634NrKgNLczw",
+  "Created": "2025-01-15T23:54:35.9990922Z",
+  "Updated": "2025-01-15T23:54:35.9990922Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
